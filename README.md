@@ -1,2 +1,2 @@
 # ananlyzer-movie
-this  is a  analyzer movie of movies in pelispop
+this  is a  analyzermovie of movies in pelispop
